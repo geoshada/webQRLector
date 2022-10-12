@@ -1,0 +1,17 @@
+{
+    "short_name": "Poc",
+    "name": "POC: PWA",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "description": "Poc para Alex"
+  }
